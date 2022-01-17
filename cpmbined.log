@@ -1,0 +1,2 @@
+{"level":"info","message":"info Logging working","service":"user-service"}
+{"level":"error","message":"error logging working","service":"user-service"}
